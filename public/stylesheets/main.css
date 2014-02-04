@@ -1,0 +1,10 @@
+.navbar-inverse {
+    background-color: #2980b9;
+    border-color: #3498db;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+a {
+    color: #2980b9;
+}
